@@ -1,0 +1,478 @@
+[
+	{
+		"type": "repairKit",
+		"x": 61.9,
+		"y": 30.9,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-16-14-46-061_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 45.909090909090914,
+		"y": 85.22727272727273,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-17-10-30-763_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 71.25,
+		"y": 26.25,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-21-38-06-950_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 57.61363636363637,
+		"y": 27.954545454545453,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-21-54-52-679_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 61.70454545454545,
+		"y": 68.63636363636364,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-22-02-05-363_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 54.88636363636363,
+		"y": 74.20454545454545,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-22-03-00-705_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 11.477272727272728,
+		"y": 76.36363636363637,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-01-14-16-47-29-115_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 22.954545454545457,
+		"y": 70.45454545454545,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-01-14-16-51-47-410_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 50.45454545454545,
+		"y": 14.318181818181818,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-23-00-40-636_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 37.38636363636363,
+		"y": 18.75,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-23-15-39-799_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 34.77272727272727,
+		"y": 62.38636363636364,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-01-23-27-41-657_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 42.38636363636364,
+		"y": 73.4090909090909,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-02-08-21-48-463_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 50,
+		"y": 88.86363636363637,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-02-08-39-35-456_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 54.20454545454545,
+		"y": 85.11363636363637,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-02-08-50-30-546_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": 28.40909090909091,
+		"y": 25.90909090909091,
+		"img": "imgs/Бермуды/Ремки/Screenshot_2021-03-02-09-11-34-242_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 49.88636363636363,
+		"y": 85.56818181818183,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-17-13-24-798_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 55.34090909090909,
+		"y": 73.18181818181819,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-17-14-47-247_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 94.31818181818183,
+		"y": 51.13636363636363,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-20-58-43-684_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 75.11363636363636,
+		"y": 50.56818181818182,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-21-01-39-764_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 70.45454545454545,
+		"y": 27.727272727272727,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-21-57-34-878_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 39.20454545454545,
+		"y": 12.727272727272727,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-23-03-10-771_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 43.75,
+		"y": 27.500000000000004,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-23-18-29-057_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 31.022727272727273,
+		"y": 34.77272727272727,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-23-24-02-236_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 27.727272727272727,
+		"y": 46.93181818181818,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-01-23-25-07-162_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": 12.613636363636363,
+		"y": 33.29545454545455,
+		"img": "imgs/Бермуды/Обменники/Screenshot_2021-03-02-09-09-16-034_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 54.20454545454545,
+		"y": 85.68181818181819,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-01-17-09-34-667_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 49.88636363636363,
+		"y": 84.88636363636364,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-01-17-11-02-720_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 69.20454545454545,
+		"y": 27.84090909090909,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-01-21-39-29-172_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 16.93181818181818,
+		"y": 74.0909090909091,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-01-14-16-44-12-851_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 26.590909090909093,
+		"y": 62.84090909090909,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-01-14-21-47-54-182_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 42.38636363636364,
+		"y": 10.568181818181818,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-01-23-01-37-749_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 22.954545454545457,
+		"y": 24.431818181818183,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-01-23-20-42-368_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 17.386363636363637,
+		"y": 28.522727272727273,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-01-23-21-21-645_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 46.81818181818182,
+		"y": 84.0909090909091,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-02-08-49-02-505_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 24.09090909090909,
+		"y": 37.72727272727273,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-02-09-13-26-047_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": 28.40909090909091,
+		"y": 37.15909090909091,
+		"img": "imgs/Бермуды/Чекалки зоны/Screenshot_2021-03-02-09-13-50-039_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 53.75,
+		"y": 80.79545454545455,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-17-13-59-130_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 72.61363636363637,
+		"y": 66.36363636363637,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-17-16-57-825_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 44.88636363636363,
+		"y": 79.77272727272727,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-20-54-07-136_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 41.13636363636364,
+		"y": 73.75,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-20-54-58-815_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 90.56818181818181,
+		"y": 53.18181818181819,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-20-58-14-249_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 60,
+		"y": 51.70454545454546,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-04-30-971_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 57.840909090909086,
+		"y": 48.29545454545455,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-04-57-137_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 54.60454545454545,
+		"y": 52.97727272727273,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-06-42-268_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 53.75,
+		"y": 54.54545454545454,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-06-50-345_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 60.56818181818182,
+		"y": 56.70454545454545,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-07-31-264_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 67.27272727272727,
+		"y": 27.386363636363637,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-39-45-730_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 61.93181818181818,
+		"y": 31.704545454545453,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-53-35-882_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 60.68181818181818,
+		"y": 27.27272727272727,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-21-54-32-123_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 41.81818181818181,
+		"y": 22.727272727272727,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-23-17-32-633_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 25.454545454545453,
+		"y": 30.909090909090907,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-23-22-44-729_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 28.522727272727273,
+		"y": 39.54545454545455,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-23-23-38-521_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": 31.136363636363633,
+		"y": 62.727272727272734,
+		"img": "imgs/Бермуды/Ящики/Screenshot_2021-03-01-23-26-55-151_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "emotion",
+		"x": 28.06818181818182,
+		"y": 41.590909090909086,
+		"img": "imgs/Бермуды/Эмоции/Screenshot_2021-03-01-23-24-34-348_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": "45.36817102137768",
+		"y": "44.418052256532064",
+		"img": "imgs/Screenshot_2021-03-02-11-22-44-817_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": "42.63657957244655",
+		"y": "43.58669833729216",
+		"img": "imgs/Screenshot_2021-03-02-11-23-38-964_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": "47.149643705463184",
+		"y": "40.38004750593824",
+		"img": "imgs/Screenshot_2021-03-02-11-24-15-138_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "box",
+		"x": "45.605700712589076",
+		"y": "32.66033254156769",
+		"img": "imgs/Screenshot_2021-03-02-11-25-44-563_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": "42.63657957244655",
+		"y": "51.42517814726841",
+		"img": "imgs/Screenshot_2021-03-02-11-42-29-444_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": "70.07125890736341",
+		"y": "26.48456057007126",
+		"img": "imgs/Screenshot_2021-03-02-11-54-25-230_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": "59.263657957244654",
+		"y": "55.10688836104512",
+		"img": "imgs/Screenshot_2021-03-02-12-01-37-072_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "repairKit",
+		"x": "60.80760095011877",
+		"y": "58.19477434679335",
+		"img": "imgs/Screenshot_2021-03-02-12-24-07-866_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": "74.94061757719716",
+		"y": "50.2375296912114",
+		"img": "imgs/Screenshot_2021-03-08-22-55-02-327_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "checkzone",
+		"x": "46.080760095011875",
+		"y": "72.32779097387173",
+		"img": "imgs/Screenshot_2021-03-08-23-06-34-824_com.dts.freefireth.jpg",
+		"map_id": "bermuda"
+	},
+	{
+		"type": "exchanger",
+		"x": "61.16389548693587",
+		"y": "65.08313539192399",
+		"img": "imgs/Screenshot_2021-03-09-16-05-29-602_com.dts.freefireth.jpg",
+		"map_id": "kalahari"
+	},
+	{
+		"type": "repairKit",
+		"x": "67.2209026128266",
+		"y": "17.695961995249405",
+		"img": "imgs/Screenshot_2021-03-09-22-56-03-470_com.dts.freefireth.jpg",
+		"map_id": "chistiliche"
+	},
+	{
+		"type": "repairKit",
+		"x": "69.12114014251782",
+		"y": "25.17814726840855",
+		"img": "imgs/Screenshot_2021-03-09-22-56-49-265_com.dts.freefireth.jpg",
+		"map_id": "chistiliche"
+	},
+	{
+		"type": "repairKit",
+		"x": "33.966745843230406",
+		"y": "57.83847980997625",
+		"img": "imgs/Screenshot_2021-03-09-23-00-59-409_com.dts.freefireth.jpg",
+		"map_id": "chistiliche"
+	}
+]
